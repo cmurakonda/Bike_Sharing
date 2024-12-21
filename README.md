@@ -43,7 +43,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@cmurakonda] - feel free to contact me!
+Created by [@cmurakonda](https://github.com/cmurakonda/) - feel free to contact me!
 
 
 <!-- Optional -->
