@@ -18,10 +18,26 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+### Conclusion 1
+Univariate Analysis inidcates on numerical variables,
+
+Windspeed has outliers. Should we remove outliers? Univariate Analysis of categorical data indicates,
+Holiday
+Majority of bike hires are on holidays
+This information matches with Working day or Not working day
+Season, Month, Week
+Consistent bike rents across season, month and week.
+Weather Situation
+Less bike hires on snowy or rainy days.
+###  Conclusion 2
+Bivariate & Multicollinearity Analysis indicates,
+
+Temp and atemp are highly correlated.
+Bike hires count is more on holidays compared to non-holidays.
+Bike hires are uniform across all week days.
+Weather situation impacts bike hires. Bad weather has less hires.
+### Conclusion 3
+The Linear regression model indicates demand for bikes is highly dependent on variables such as year, temperature and weather situation.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
